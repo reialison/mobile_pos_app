@@ -70,7 +70,7 @@
     <script src="js/swal-forms.js"></script>
     <script src="js/custom.js"></script>
 
-    <title>Shell App Template v.1</title>
+    <title>Mobile POS Template</title>
 </head>
 
 <!-- <body class="green">
@@ -105,7 +105,7 @@
 
         <div class="logo_container">
             <div class="logo">
-            <img src="css/css/images/logo3.png'" alt="shell" title="shell" />
+            <img src="'" alt="shell" title="shell" />
             <h2>Shell</h2>
             <span></span>                        
             </div>                     
